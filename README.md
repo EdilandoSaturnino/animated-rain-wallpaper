@@ -1,2 +1,3 @@
-# animated-rain-wallpaper
-Papel de parede simples de chuva xd
+# Papel de parede animado
+
+View: https://edilandosaturnino.github.io/animated-rain-wallpaper
